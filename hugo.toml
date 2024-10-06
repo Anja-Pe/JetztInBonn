@@ -1,14 +1,18 @@
 baseURL = "https://jetztinbonn.de"
 languageCode = "de-DE"
+pluralizeListTitles = false
 title = "#jetztinbonn"
 theme = "ananke"
 
-
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+
+[pagination]
+  disableAliases = false
+  pagerSize = 5			# Number of posts on posta page (sublevel)
+  path = 'page'
 
 [sitemap]
   changefreq = "monthly"
@@ -23,7 +27,7 @@ enableRobotsTXT = true
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  recent_posts_number = 4
+  recent_posts_number = 3	# Number of summaries on homepage (toplevel)
 
 [[params.ananke_socials]]
 name = "github"

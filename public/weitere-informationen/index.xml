@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weitere Informationen on #jetztinbonn</title>
+    <link>http://localhost:1313/weitere-informationen/</link>
+    <description>Recent content in Weitere Informationen on #jetztinbonn</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/weitere-informationen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unsere Aktionen</title>
+      <link>http://localhost:1313/weitere-informationen/actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weitere-informationen/actions/</guid>
+      <description>&lt;p&gt;Hier findest Du Informationen über durchgeführte und geplante Aktionen sowie weitere Projekt-Ideen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Was Du selbst tun kannst</title>
+      <link>http://localhost:1313/weitere-informationen/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weitere-informationen/resources/</guid>
+      <description>&lt;p&gt;Hier findest Du Tipps, Strategien und Ressourcen, für Dein weltoffenes und solidarisches Engagement,  um entschlossen, selbstbewusst und sichtbar Deine Werte nach außen zu tragen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wo Du uns findest</title>
+      <link>http://localhost:1313/weitere-informationen/find_us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weitere-informationen/find_us/</guid>
+      <description>&lt;p&gt;Du findest uns auf verschiedenen Plattformen oder auch bei persönlichen und virtuellen Treffen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
