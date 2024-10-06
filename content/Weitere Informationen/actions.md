@@ -22,6 +22,6 @@ ins Leben rufen wollen, um ins Wirksam-Werden zu kommen.
 
 Gibt es Themen, für die Du Dich grundsätzlich interessiert oder konkrete Aktionen, bei denen Du mitmischen möchtest? Fehlt Dir ein Thema, eine Aktion, die Du mitgestalten möchtest?
 
-Dann [schreibe uns eine E-Mail]({{< ref "/about" >}} "Kontakt"), damit wir Dich und Deine Themen auf unserem #jetztinbonn-Schirm haben. 
+Dann [schreibe uns eine E-Mail]({{< ref "/contact" >}} "Kontakt"), damit wir Dich und Deine Themen auf unserem #jetztinbonn-Schirm haben. 
 
 Welche Art von Wirken Dir auch immer persönlich am meisten liegt, Du bist Willkommen!
