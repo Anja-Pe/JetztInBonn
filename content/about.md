@@ -14,6 +14,8 @@ href="http://&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#32;&#119;&#114;&#105;&#11
 
 Für den Inhalt von verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
+Diese Seite verwendet den [Ananke Gohugo Theme](https://themes.gohugo.io/themes/gohugo-theme-ananke/).
+
 Die Bilder auf unserer Seite stammen von 
 
 - Didgeman ([Pixabay](https://pixabay.com/de/photos/weinberg-bonn-horizont-983313/))

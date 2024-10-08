@@ -6,7 +6,6 @@ cascade:
 ---
 
 ### WER WIR SIND
-
 **Vielfältige, weltoffene Menschen aus Bonn** und der näheren Umgebung, die **gemeinsam** wirksam werden und sich gesellschaftlich engagieren wollen in einem **privaten, überparteilichen** Umfeld.
 
 

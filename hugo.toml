@@ -11,7 +11,7 @@ enableRobotsTXT = true
 
 [pagination]
   disableAliases = false
-  pagerSize = 5			# Number of posts on posta page (sublevel)
+  pagerSize = 5			# Number of posts on posts page (sublevel)
   path = 'page'
 
 [sitemap]
@@ -21,6 +21,8 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
+  body_classes = ""		# Changes headline colors (and keeps font "avenir")
+
   author = ""
   favicon = "/images/PrelimLogo.png"
   site_logo = ""
