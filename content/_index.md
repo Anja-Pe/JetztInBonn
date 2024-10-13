@@ -2,7 +2,7 @@
 title: #jetztinbonn
 description: "Gemeinsam für Demokratie und Menschlichkeit."
 cascade:
-  featured_image: '/images/vineyard-bonn.jpg'
+  featured_image: '/images/orange.png'
 ---
 
 ### WER WIR SIND

@@ -1,6 +1,7 @@
 baseURL = "https://jetztinbonn.de"
 languageCode = "de-DE"
 pluralizeListTitles = false
+capitalizeListTitles = false
 title = "#jetztinbonn"
 theme = "ananke"
 
@@ -21,16 +22,18 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  body_classes = "avenir green"		# Changes headline colors (and keeps font "avenir")
+  body_classes = "avenir jib-blue"		# Changes headline colors (and keeps font "avenir")
+  cover_dimming_class = "bg-transparent"  
 
   author = ""
   favicon = "/images/PrelimLogo.png"
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-green"			# Changes footer color
+  background_color_class = "bg-jib-green"			# Changes footer color
   recent_posts_number = 3	# Number of summaries on homepage (toplevel)
 
-[[params.ananke_socials]]
-name = "github"
-url = "https://github.com/Anja-Pe"
+#[[params.ananke_socials]]
+#name = "github"
+#url = "https://github.com/Anja-Pe"
+
